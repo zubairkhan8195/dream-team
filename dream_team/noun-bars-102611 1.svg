@@ -1,0 +1,31 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M22.3211 48.1357H13.971C13.2988 48.1357 12.7544 47.5916 12.7544 46.9199L12.7552 17.0557C12.7552 16.3856 13.2996 15.8398 13.9718 15.8398H22.3219C22.9925 15.8398 23.5385 16.384 23.5385 17.0557V46.9219C23.5369 47.5937 22.9917 48.137 22.3211 48.137V48.1357ZM15.1868 45.7049H21.1045V18.2712H15.1868V45.7049Z" fill="url(#paint0_linear_437_28047)"/>
+<path d="M50.0062 48.135H41.6561C40.9855 48.135 40.4395 47.5908 40.4395 46.9191V24.4893C40.4395 23.8175 40.9839 23.2734 41.6561 23.2734H50.0062C50.6784 23.2734 51.2228 23.8176 51.2228 24.4893V46.9211C51.2212 47.5929 50.6767 48.1362 50.0062 48.1362V48.135ZM42.8726 45.7041H48.7904V25.7035H42.8726V45.7041Z" fill="url(#paint1_linear_437_28047)"/>
+<path d="M36.1624 48.1365H27.8123C27.1417 48.1365 26.5957 47.5924 26.5957 46.9207V31.9249C26.5957 31.2547 27.1402 30.709 27.8123 30.709H36.1624C36.8346 30.709 37.379 31.2531 37.379 31.9249V46.9215C37.379 47.5932 36.8338 48.1365 36.1624 48.1365V48.1365ZM29.0289 45.7056H34.9467V33.1393H29.0289V45.7056Z" fill="url(#paint2_linear_437_28047)"/>
+<defs>
+<linearGradient id="paint0_linear_437_28047" x1="12.7615" y1="47.8732" x2="32.9151" y2="41.677" gradientUnits="userSpaceOnUse">
+<stop offset="0.0729167" stop-color="#F54A2E"/>
+<stop offset="0.348958" stop-color="#99D1AD"/>
+<stop offset="0.484375" stop-color="#8AE7C1"/>
+<stop offset="0.630208" stop-color="#7BDBC6"/>
+<stop offset="0.765625" stop-color="#2DB1C3"/>
+<stop offset="0.90625" stop-color="#019AC1"/>
+</linearGradient>
+<linearGradient id="paint1_linear_437_28047" x1="40.4465" y1="47.9331" x2="59.4697" y2="40.3362" gradientUnits="userSpaceOnUse">
+<stop offset="0.0729167" stop-color="#F54A2E"/>
+<stop offset="0.348958" stop-color="#99D1AD"/>
+<stop offset="0.484375" stop-color="#8AE7C1"/>
+<stop offset="0.630208" stop-color="#7BDBC6"/>
+<stop offset="0.765625" stop-color="#2DB1C3"/>
+<stop offset="0.90625" stop-color="#019AC1"/>
+</linearGradient>
+<linearGradient id="paint2_linear_437_28047" x1="26.6028" y1="47.9942" x2="43.2547" y2="38.5071" gradientUnits="userSpaceOnUse">
+<stop offset="0.0729167" stop-color="#F54A2E"/>
+<stop offset="0.348958" stop-color="#99D1AD"/>
+<stop offset="0.484375" stop-color="#8AE7C1"/>
+<stop offset="0.630208" stop-color="#7BDBC6"/>
+<stop offset="0.765625" stop-color="#2DB1C3"/>
+<stop offset="0.90625" stop-color="#019AC1"/>
+</linearGradient>
+</defs>
+</svg>
